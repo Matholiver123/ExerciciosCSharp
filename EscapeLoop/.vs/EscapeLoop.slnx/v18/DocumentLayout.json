@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikcb\\source\\repos\\EscapeLoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1E2E22-AC34-4C9B-8B1C-8C82CB64715D}|EscapeLoop\\EscapeLoop.csproj|c:\\users\\nikcb\\source\\repos\\escapeloop\\escapeloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1E2E22-AC34-4C9B-8B1C-8C82CB64715D}|EscapeLoop\\EscapeLoop.csproj|solutionrelative:escapeloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikcb\\source\\repos\\EscapeLoop\\EscapeLoop\\Program.cs",
+              "RelativeDocumentMoniker": "EscapeLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\nikcb\\source\\repos\\EscapeLoop\\EscapeLoop\\Program.cs",
+              "RelativeToolTip": "EscapeLoop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:18:15.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

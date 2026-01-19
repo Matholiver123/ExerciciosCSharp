@@ -1,0 +1,14 @@
+C:\Users\nikcb\source\repos\ConversorUnidades\ConversorUnidades\bin\Debug\net10.0\ConversorUnidades.exe
+C:\Users\nikcb\source\repos\ConversorUnidades\ConversorUnidades\bin\Debug\net10.0\ConversorUnidades.deps.json
+C:\Users\nikcb\source\repos\ConversorUnidades\ConversorUnidades\bin\Debug\net10.0\ConversorUnidades.runtimeconfig.json
+C:\Users\nikcb\source\repos\ConversorUnidades\ConversorUnidades\bin\Debug\net10.0\ConversorUnidades.dll
+C:\Users\nikcb\source\repos\ConversorUnidades\ConversorUnidades\bin\Debug\net10.0\ConversorUnidades.pdb
+C:\Users\nikcb\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net10.0\ConversorUnidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikcb\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net10.0\ConversorUnidades.AssemblyInfoInputs.cache
+C:\Users\nikcb\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net10.0\ConversorUnidades.AssemblyInfo.cs
+C:\Users\nikcb\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net10.0\ConversorUnidades.csproj.CoreCompileInputs.cache
+C:\Users\nikcb\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net10.0\ConversorUnidades.dll
+C:\Users\nikcb\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net10.0\refint\ConversorUnidades.dll
+C:\Users\nikcb\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net10.0\ConversorUnidades.pdb
+C:\Users\nikcb\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net10.0\ConversorUnidades.genruntimeconfig.cache
+C:\Users\nikcb\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net10.0\ref\ConversorUnidades.dll

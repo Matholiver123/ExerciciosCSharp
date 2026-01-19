@@ -1,0 +1,14 @@
+C:\Users\nikcb\source\repos\VerificadorAmor\VerificadorAmor\bin\Debug\net10.0\VerificadorAmor.exe
+C:\Users\nikcb\source\repos\VerificadorAmor\VerificadorAmor\bin\Debug\net10.0\VerificadorAmor.deps.json
+C:\Users\nikcb\source\repos\VerificadorAmor\VerificadorAmor\bin\Debug\net10.0\VerificadorAmor.runtimeconfig.json
+C:\Users\nikcb\source\repos\VerificadorAmor\VerificadorAmor\bin\Debug\net10.0\VerificadorAmor.dll
+C:\Users\nikcb\source\repos\VerificadorAmor\VerificadorAmor\bin\Debug\net10.0\VerificadorAmor.pdb
+C:\Users\nikcb\source\repos\VerificadorAmor\VerificadorAmor\obj\Debug\net10.0\VerificadorAmor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikcb\source\repos\VerificadorAmor\VerificadorAmor\obj\Debug\net10.0\VerificadorAmor.AssemblyInfoInputs.cache
+C:\Users\nikcb\source\repos\VerificadorAmor\VerificadorAmor\obj\Debug\net10.0\VerificadorAmor.AssemblyInfo.cs
+C:\Users\nikcb\source\repos\VerificadorAmor\VerificadorAmor\obj\Debug\net10.0\VerificadorAmor.csproj.CoreCompileInputs.cache
+C:\Users\nikcb\source\repos\VerificadorAmor\VerificadorAmor\obj\Debug\net10.0\VerificadorAmor.dll
+C:\Users\nikcb\source\repos\VerificadorAmor\VerificadorAmor\obj\Debug\net10.0\refint\VerificadorAmor.dll
+C:\Users\nikcb\source\repos\VerificadorAmor\VerificadorAmor\obj\Debug\net10.0\VerificadorAmor.pdb
+C:\Users\nikcb\source\repos\VerificadorAmor\VerificadorAmor\obj\Debug\net10.0\VerificadorAmor.genruntimeconfig.cache
+C:\Users\nikcb\source\repos\VerificadorAmor\VerificadorAmor\obj\Debug\net10.0\ref\VerificadorAmor.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Fruta Color/1.0.0": {
+        "runtime": {
+          "Fruta Color.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fruta Color/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\nikcb\source\repos\ContagemWhile\ContagemWhile\bin\Debug\net10.0\ContagemWhile.exe
+C:\Users\nikcb\source\repos\ContagemWhile\ContagemWhile\bin\Debug\net10.0\ContagemWhile.deps.json
+C:\Users\nikcb\source\repos\ContagemWhile\ContagemWhile\bin\Debug\net10.0\ContagemWhile.runtimeconfig.json
+C:\Users\nikcb\source\repos\ContagemWhile\ContagemWhile\bin\Debug\net10.0\ContagemWhile.dll
+C:\Users\nikcb\source\repos\ContagemWhile\ContagemWhile\bin\Debug\net10.0\ContagemWhile.pdb
+C:\Users\nikcb\source\repos\ContagemWhile\ContagemWhile\obj\Debug\net10.0\ContagemWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikcb\source\repos\ContagemWhile\ContagemWhile\obj\Debug\net10.0\ContagemWhile.AssemblyInfoInputs.cache
+C:\Users\nikcb\source\repos\ContagemWhile\ContagemWhile\obj\Debug\net10.0\ContagemWhile.AssemblyInfo.cs
+C:\Users\nikcb\source\repos\ContagemWhile\ContagemWhile\obj\Debug\net10.0\ContagemWhile.csproj.CoreCompileInputs.cache
+C:\Users\nikcb\source\repos\ContagemWhile\ContagemWhile\obj\Debug\net10.0\ContagemWhile.dll
+C:\Users\nikcb\source\repos\ContagemWhile\ContagemWhile\obj\Debug\net10.0\refint\ContagemWhile.dll
+C:\Users\nikcb\source\repos\ContagemWhile\ContagemWhile\obj\Debug\net10.0\ContagemWhile.pdb
+C:\Users\nikcb\source\repos\ContagemWhile\ContagemWhile\obj\Debug\net10.0\ContagemWhile.genruntimeconfig.cache
+C:\Users\nikcb\source\repos\ContagemWhile\ContagemWhile\obj\Debug\net10.0\ref\ContagemWhile.dll

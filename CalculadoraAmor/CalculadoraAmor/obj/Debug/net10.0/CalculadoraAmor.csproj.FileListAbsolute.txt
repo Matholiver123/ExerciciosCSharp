@@ -1,0 +1,14 @@
+C:\Users\nikcb\source\repos\CalculadoraAmor\CalculadoraAmor\obj\Debug\net10.0\CalculadoraAmor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikcb\source\repos\CalculadoraAmor\CalculadoraAmor\obj\Debug\net10.0\CalculadoraAmor.AssemblyInfoInputs.cache
+C:\Users\nikcb\source\repos\CalculadoraAmor\CalculadoraAmor\obj\Debug\net10.0\CalculadoraAmor.AssemblyInfo.cs
+C:\Users\nikcb\source\repos\CalculadoraAmor\CalculadoraAmor\obj\Debug\net10.0\CalculadoraAmor.csproj.CoreCompileInputs.cache
+C:\Users\nikcb\source\repos\CalculadoraAmor\CalculadoraAmor\bin\Debug\net10.0\CalculadoraAmor.exe
+C:\Users\nikcb\source\repos\CalculadoraAmor\CalculadoraAmor\bin\Debug\net10.0\CalculadoraAmor.deps.json
+C:\Users\nikcb\source\repos\CalculadoraAmor\CalculadoraAmor\bin\Debug\net10.0\CalculadoraAmor.runtimeconfig.json
+C:\Users\nikcb\source\repos\CalculadoraAmor\CalculadoraAmor\bin\Debug\net10.0\CalculadoraAmor.dll
+C:\Users\nikcb\source\repos\CalculadoraAmor\CalculadoraAmor\bin\Debug\net10.0\CalculadoraAmor.pdb
+C:\Users\nikcb\source\repos\CalculadoraAmor\CalculadoraAmor\obj\Debug\net10.0\CalculadoraAmor.dll
+C:\Users\nikcb\source\repos\CalculadoraAmor\CalculadoraAmor\obj\Debug\net10.0\refint\CalculadoraAmor.dll
+C:\Users\nikcb\source\repos\CalculadoraAmor\CalculadoraAmor\obj\Debug\net10.0\CalculadoraAmor.pdb
+C:\Users\nikcb\source\repos\CalculadoraAmor\CalculadoraAmor\obj\Debug\net10.0\CalculadoraAmor.genruntimeconfig.cache
+C:\Users\nikcb\source\repos\CalculadoraAmor\CalculadoraAmor\obj\Debug\net10.0\ref\CalculadoraAmor.dll

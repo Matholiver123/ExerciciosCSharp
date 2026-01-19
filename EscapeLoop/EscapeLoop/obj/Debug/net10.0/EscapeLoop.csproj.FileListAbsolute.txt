@@ -1,0 +1,14 @@
+C:\Users\nikcb\source\repos\EscapeLoop\EscapeLoop\bin\Debug\net10.0\EscapeLoop.exe
+C:\Users\nikcb\source\repos\EscapeLoop\EscapeLoop\bin\Debug\net10.0\EscapeLoop.deps.json
+C:\Users\nikcb\source\repos\EscapeLoop\EscapeLoop\bin\Debug\net10.0\EscapeLoop.runtimeconfig.json
+C:\Users\nikcb\source\repos\EscapeLoop\EscapeLoop\bin\Debug\net10.0\EscapeLoop.dll
+C:\Users\nikcb\source\repos\EscapeLoop\EscapeLoop\bin\Debug\net10.0\EscapeLoop.pdb
+C:\Users\nikcb\source\repos\EscapeLoop\EscapeLoop\obj\Debug\net10.0\EscapeLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikcb\source\repos\EscapeLoop\EscapeLoop\obj\Debug\net10.0\EscapeLoop.AssemblyInfoInputs.cache
+C:\Users\nikcb\source\repos\EscapeLoop\EscapeLoop\obj\Debug\net10.0\EscapeLoop.AssemblyInfo.cs
+C:\Users\nikcb\source\repos\EscapeLoop\EscapeLoop\obj\Debug\net10.0\EscapeLoop.csproj.CoreCompileInputs.cache
+C:\Users\nikcb\source\repos\EscapeLoop\EscapeLoop\obj\Debug\net10.0\EscapeLoop.dll
+C:\Users\nikcb\source\repos\EscapeLoop\EscapeLoop\obj\Debug\net10.0\refint\EscapeLoop.dll
+C:\Users\nikcb\source\repos\EscapeLoop\EscapeLoop\obj\Debug\net10.0\EscapeLoop.pdb
+C:\Users\nikcb\source\repos\EscapeLoop\EscapeLoop\obj\Debug\net10.0\EscapeLoop.genruntimeconfig.cache
+C:\Users\nikcb\source\repos\EscapeLoop\EscapeLoop\obj\Debug\net10.0\ref\EscapeLoop.dll

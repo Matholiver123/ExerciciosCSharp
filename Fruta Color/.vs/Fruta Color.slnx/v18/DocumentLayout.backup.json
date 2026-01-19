@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikcb\\source\\repos\\Fruta Color\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82C03E98-4E64-0273-E7DA-0790AEB3754F}|Fruta Color\\Fruta Color.csproj|c:\\users\\nikcb\\source\\repos\\fruta color\\fruta color\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C03E98-4E64-0273-E7DA-0790AEB3754F}|Fruta Color\\Fruta Color.csproj|solutionrelative:fruta color\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikcb\\source\\repos\\Fruta Color\\Fruta Color\\Program.cs",
+              "RelativeDocumentMoniker": "Fruta Color\\Program.cs",
+              "ToolTip": "C:\\Users\\nikcb\\source\\repos\\Fruta Color\\Fruta Color\\Program.cs",
+              "RelativeToolTip": "Fruta Color\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T14:06:37.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

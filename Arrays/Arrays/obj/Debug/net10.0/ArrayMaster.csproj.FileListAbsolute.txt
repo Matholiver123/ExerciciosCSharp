@@ -1,0 +1,14 @@
+C:\Users\nikcb\source\repos\ArrayMaster\ArrayMaster\bin\Debug\net10.0\ArrayMaster.exe
+C:\Users\nikcb\source\repos\ArrayMaster\ArrayMaster\bin\Debug\net10.0\ArrayMaster.deps.json
+C:\Users\nikcb\source\repos\ArrayMaster\ArrayMaster\bin\Debug\net10.0\ArrayMaster.runtimeconfig.json
+C:\Users\nikcb\source\repos\ArrayMaster\ArrayMaster\bin\Debug\net10.0\ArrayMaster.dll
+C:\Users\nikcb\source\repos\ArrayMaster\ArrayMaster\bin\Debug\net10.0\ArrayMaster.pdb
+C:\Users\nikcb\source\repos\ArrayMaster\ArrayMaster\obj\Debug\net10.0\ArrayMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikcb\source\repos\ArrayMaster\ArrayMaster\obj\Debug\net10.0\ArrayMaster.AssemblyInfoInputs.cache
+C:\Users\nikcb\source\repos\ArrayMaster\ArrayMaster\obj\Debug\net10.0\ArrayMaster.AssemblyInfo.cs
+C:\Users\nikcb\source\repos\ArrayMaster\ArrayMaster\obj\Debug\net10.0\ArrayMaster.csproj.CoreCompileInputs.cache
+C:\Users\nikcb\source\repos\ArrayMaster\ArrayMaster\obj\Debug\net10.0\ArrayMaster.dll
+C:\Users\nikcb\source\repos\ArrayMaster\ArrayMaster\obj\Debug\net10.0\refint\ArrayMaster.dll
+C:\Users\nikcb\source\repos\ArrayMaster\ArrayMaster\obj\Debug\net10.0\ArrayMaster.pdb
+C:\Users\nikcb\source\repos\ArrayMaster\ArrayMaster\obj\Debug\net10.0\ArrayMaster.genruntimeconfig.cache
+C:\Users\nikcb\source\repos\ArrayMaster\ArrayMaster\obj\Debug\net10.0\ref\ArrayMaster.dll

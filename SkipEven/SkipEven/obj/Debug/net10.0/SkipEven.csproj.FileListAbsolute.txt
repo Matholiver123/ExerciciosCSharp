@@ -1,0 +1,14 @@
+C:\Users\nikcb\source\repos\SkipEven\SkipEven\bin\Debug\net10.0\SkipEven.exe
+C:\Users\nikcb\source\repos\SkipEven\SkipEven\bin\Debug\net10.0\SkipEven.deps.json
+C:\Users\nikcb\source\repos\SkipEven\SkipEven\bin\Debug\net10.0\SkipEven.runtimeconfig.json
+C:\Users\nikcb\source\repos\SkipEven\SkipEven\bin\Debug\net10.0\SkipEven.dll
+C:\Users\nikcb\source\repos\SkipEven\SkipEven\bin\Debug\net10.0\SkipEven.pdb
+C:\Users\nikcb\source\repos\SkipEven\SkipEven\obj\Debug\net10.0\SkipEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikcb\source\repos\SkipEven\SkipEven\obj\Debug\net10.0\SkipEven.AssemblyInfoInputs.cache
+C:\Users\nikcb\source\repos\SkipEven\SkipEven\obj\Debug\net10.0\SkipEven.AssemblyInfo.cs
+C:\Users\nikcb\source\repos\SkipEven\SkipEven\obj\Debug\net10.0\SkipEven.csproj.CoreCompileInputs.cache
+C:\Users\nikcb\source\repos\SkipEven\SkipEven\obj\Debug\net10.0\SkipEven.dll
+C:\Users\nikcb\source\repos\SkipEven\SkipEven\obj\Debug\net10.0\refint\SkipEven.dll
+C:\Users\nikcb\source\repos\SkipEven\SkipEven\obj\Debug\net10.0\SkipEven.pdb
+C:\Users\nikcb\source\repos\SkipEven\SkipEven\obj\Debug\net10.0\SkipEven.genruntimeconfig.cache
+C:\Users\nikcb\source\repos\SkipEven\SkipEven\obj\Debug\net10.0\ref\SkipEven.dll

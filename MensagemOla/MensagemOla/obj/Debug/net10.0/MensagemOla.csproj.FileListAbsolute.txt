@@ -1,0 +1,14 @@
+C:\Users\nikcb\source\repos\MensagemOla\MensagemOla\bin\Debug\net10.0\MensagemOla.exe
+C:\Users\nikcb\source\repos\MensagemOla\MensagemOla\bin\Debug\net10.0\MensagemOla.deps.json
+C:\Users\nikcb\source\repos\MensagemOla\MensagemOla\bin\Debug\net10.0\MensagemOla.runtimeconfig.json
+C:\Users\nikcb\source\repos\MensagemOla\MensagemOla\bin\Debug\net10.0\MensagemOla.dll
+C:\Users\nikcb\source\repos\MensagemOla\MensagemOla\bin\Debug\net10.0\MensagemOla.pdb
+C:\Users\nikcb\source\repos\MensagemOla\MensagemOla\obj\Debug\net10.0\MensagemOla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikcb\source\repos\MensagemOla\MensagemOla\obj\Debug\net10.0\MensagemOla.AssemblyInfoInputs.cache
+C:\Users\nikcb\source\repos\MensagemOla\MensagemOla\obj\Debug\net10.0\MensagemOla.AssemblyInfo.cs
+C:\Users\nikcb\source\repos\MensagemOla\MensagemOla\obj\Debug\net10.0\MensagemOla.csproj.CoreCompileInputs.cache
+C:\Users\nikcb\source\repos\MensagemOla\MensagemOla\obj\Debug\net10.0\MensagemOla.dll
+C:\Users\nikcb\source\repos\MensagemOla\MensagemOla\obj\Debug\net10.0\refint\MensagemOla.dll
+C:\Users\nikcb\source\repos\MensagemOla\MensagemOla\obj\Debug\net10.0\MensagemOla.pdb
+C:\Users\nikcb\source\repos\MensagemOla\MensagemOla\obj\Debug\net10.0\MensagemOla.genruntimeconfig.cache
+C:\Users\nikcb\source\repos\MensagemOla\MensagemOla\obj\Debug\net10.0\ref\MensagemOla.dll

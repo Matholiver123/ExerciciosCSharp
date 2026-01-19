@@ -1,0 +1,14 @@
+C:\Users\nikcb\source\repos\ContadorFor\ContadorFor\bin\Debug\net10.0\ContadorFor.exe
+C:\Users\nikcb\source\repos\ContadorFor\ContadorFor\bin\Debug\net10.0\ContadorFor.deps.json
+C:\Users\nikcb\source\repos\ContadorFor\ContadorFor\bin\Debug\net10.0\ContadorFor.runtimeconfig.json
+C:\Users\nikcb\source\repos\ContadorFor\ContadorFor\bin\Debug\net10.0\ContadorFor.dll
+C:\Users\nikcb\source\repos\ContadorFor\ContadorFor\bin\Debug\net10.0\ContadorFor.pdb
+C:\Users\nikcb\source\repos\ContadorFor\ContadorFor\obj\Debug\net10.0\ContadorFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikcb\source\repos\ContadorFor\ContadorFor\obj\Debug\net10.0\ContadorFor.AssemblyInfoInputs.cache
+C:\Users\nikcb\source\repos\ContadorFor\ContadorFor\obj\Debug\net10.0\ContadorFor.AssemblyInfo.cs
+C:\Users\nikcb\source\repos\ContadorFor\ContadorFor\obj\Debug\net10.0\ContadorFor.csproj.CoreCompileInputs.cache
+C:\Users\nikcb\source\repos\ContadorFor\ContadorFor\obj\Debug\net10.0\ContadorFor.dll
+C:\Users\nikcb\source\repos\ContadorFor\ContadorFor\obj\Debug\net10.0\refint\ContadorFor.dll
+C:\Users\nikcb\source\repos\ContadorFor\ContadorFor\obj\Debug\net10.0\ContadorFor.pdb
+C:\Users\nikcb\source\repos\ContadorFor\ContadorFor\obj\Debug\net10.0\ContadorFor.genruntimeconfig.cache
+C:\Users\nikcb\source\repos\ContadorFor\ContadorFor\obj\Debug\net10.0\ref\ContadorFor.dll

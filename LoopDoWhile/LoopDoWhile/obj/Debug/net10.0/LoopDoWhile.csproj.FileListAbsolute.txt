@@ -1,0 +1,14 @@
+C:\Users\nikcb\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\net10.0\LoopDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikcb\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\net10.0\LoopDoWhile.AssemblyInfoInputs.cache
+C:\Users\nikcb\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\net10.0\LoopDoWhile.AssemblyInfo.cs
+C:\Users\nikcb\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\net10.0\LoopDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\nikcb\source\repos\LoopDoWhile\LoopDoWhile\bin\Debug\net10.0\LoopDoWhile.exe
+C:\Users\nikcb\source\repos\LoopDoWhile\LoopDoWhile\bin\Debug\net10.0\LoopDoWhile.deps.json
+C:\Users\nikcb\source\repos\LoopDoWhile\LoopDoWhile\bin\Debug\net10.0\LoopDoWhile.runtimeconfig.json
+C:\Users\nikcb\source\repos\LoopDoWhile\LoopDoWhile\bin\Debug\net10.0\LoopDoWhile.dll
+C:\Users\nikcb\source\repos\LoopDoWhile\LoopDoWhile\bin\Debug\net10.0\LoopDoWhile.pdb
+C:\Users\nikcb\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\net10.0\LoopDoWhile.dll
+C:\Users\nikcb\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\net10.0\refint\LoopDoWhile.dll
+C:\Users\nikcb\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\net10.0\LoopDoWhile.pdb
+C:\Users\nikcb\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\net10.0\LoopDoWhile.genruntimeconfig.cache
+C:\Users\nikcb\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\net10.0\ref\LoopDoWhile.dll
