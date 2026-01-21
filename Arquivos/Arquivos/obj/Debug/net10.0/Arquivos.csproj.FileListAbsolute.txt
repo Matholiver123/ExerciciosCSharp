@@ -1,0 +1,14 @@
+C:\Users\nikcb\source\repos\Arquivos\Arquivos\bin\Debug\net10.0\Arquivos.exe
+C:\Users\nikcb\source\repos\Arquivos\Arquivos\bin\Debug\net10.0\Arquivos.deps.json
+C:\Users\nikcb\source\repos\Arquivos\Arquivos\bin\Debug\net10.0\Arquivos.runtimeconfig.json
+C:\Users\nikcb\source\repos\Arquivos\Arquivos\bin\Debug\net10.0\Arquivos.dll
+C:\Users\nikcb\source\repos\Arquivos\Arquivos\bin\Debug\net10.0\Arquivos.pdb
+C:\Users\nikcb\source\repos\Arquivos\Arquivos\obj\Debug\net10.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikcb\source\repos\Arquivos\Arquivos\obj\Debug\net10.0\Arquivos.AssemblyInfoInputs.cache
+C:\Users\nikcb\source\repos\Arquivos\Arquivos\obj\Debug\net10.0\Arquivos.AssemblyInfo.cs
+C:\Users\nikcb\source\repos\Arquivos\Arquivos\obj\Debug\net10.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\nikcb\source\repos\Arquivos\Arquivos\obj\Debug\net10.0\Arquivos.dll
+C:\Users\nikcb\source\repos\Arquivos\Arquivos\obj\Debug\net10.0\refint\Arquivos.dll
+C:\Users\nikcb\source\repos\Arquivos\Arquivos\obj\Debug\net10.0\Arquivos.pdb
+C:\Users\nikcb\source\repos\Arquivos\Arquivos\obj\Debug\net10.0\Arquivos.genruntimeconfig.cache
+C:\Users\nikcb\source\repos\Arquivos\Arquivos\obj\Debug\net10.0\ref\Arquivos.dll

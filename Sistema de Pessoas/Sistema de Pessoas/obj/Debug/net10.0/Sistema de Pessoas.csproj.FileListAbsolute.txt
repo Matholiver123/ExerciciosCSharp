@@ -1,0 +1,14 @@
+C:\Users\nikcb\source\repos\Sistema de Pessoas\Sistema de Pessoas\bin\Debug\net10.0\Sistema de Pessoas.exe
+C:\Users\nikcb\source\repos\Sistema de Pessoas\Sistema de Pessoas\bin\Debug\net10.0\Sistema de Pessoas.deps.json
+C:\Users\nikcb\source\repos\Sistema de Pessoas\Sistema de Pessoas\bin\Debug\net10.0\Sistema de Pessoas.runtimeconfig.json
+C:\Users\nikcb\source\repos\Sistema de Pessoas\Sistema de Pessoas\bin\Debug\net10.0\Sistema de Pessoas.dll
+C:\Users\nikcb\source\repos\Sistema de Pessoas\Sistema de Pessoas\bin\Debug\net10.0\Sistema de Pessoas.pdb
+C:\Users\nikcb\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net10.0\Sistema de Pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikcb\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net10.0\Sistema de Pessoas.AssemblyInfoInputs.cache
+C:\Users\nikcb\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net10.0\Sistema de Pessoas.AssemblyInfo.cs
+C:\Users\nikcb\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net10.0\Sistema de Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\nikcb\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net10.0\Sistema de Pessoas.dll
+C:\Users\nikcb\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net10.0\refint\Sistema de Pessoas.dll
+C:\Users\nikcb\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net10.0\Sistema de Pessoas.pdb
+C:\Users\nikcb\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net10.0\Sistema de Pessoas.genruntimeconfig.cache
+C:\Users\nikcb\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net10.0\ref\Sistema de Pessoas.dll

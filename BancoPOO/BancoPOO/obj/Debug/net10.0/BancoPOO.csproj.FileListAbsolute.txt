@@ -1,0 +1,4 @@
+C:\Users\nikcb\source\repos\BancoPOO\BancoPOO\obj\Debug\net10.0\BancoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikcb\source\repos\BancoPOO\BancoPOO\obj\Debug\net10.0\BancoPOO.AssemblyInfoInputs.cache
+C:\Users\nikcb\source\repos\BancoPOO\BancoPOO\obj\Debug\net10.0\BancoPOO.AssemblyInfo.cs
+C:\Users\nikcb\source\repos\BancoPOO\BancoPOO\obj\Debug\net10.0\BancoPOO.csproj.CoreCompileInputs.cache

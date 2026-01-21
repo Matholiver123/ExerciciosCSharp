@@ -1,0 +1,14 @@
+C:\Users\nikcb\source\repos\Funcionario\Funcionario\bin\Debug\net10.0\Funcionario.exe
+C:\Users\nikcb\source\repos\Funcionario\Funcionario\bin\Debug\net10.0\Funcionario.deps.json
+C:\Users\nikcb\source\repos\Funcionario\Funcionario\bin\Debug\net10.0\Funcionario.runtimeconfig.json
+C:\Users\nikcb\source\repos\Funcionario\Funcionario\bin\Debug\net10.0\Funcionario.dll
+C:\Users\nikcb\source\repos\Funcionario\Funcionario\bin\Debug\net10.0\Funcionario.pdb
+C:\Users\nikcb\source\repos\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikcb\source\repos\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.AssemblyInfoInputs.cache
+C:\Users\nikcb\source\repos\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.AssemblyInfo.cs
+C:\Users\nikcb\source\repos\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\nikcb\source\repos\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.dll
+C:\Users\nikcb\source\repos\Funcionario\Funcionario\obj\Debug\net10.0\refint\Funcionario.dll
+C:\Users\nikcb\source\repos\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.pdb
+C:\Users\nikcb\source\repos\Funcionario\Funcionario\obj\Debug\net10.0\Funcionario.genruntimeconfig.cache
+C:\Users\nikcb\source\repos\Funcionario\Funcionario\obj\Debug\net10.0\ref\Funcionario.dll
